@@ -8,14 +8,18 @@ body  {
   flex-direction: column;
   max-width: 1280px;
   position: relative;
+  align-items: center;
+  padding: 0 20px;
+  position: relative;
 }
 
 #navbar {
   display: flex;
   flex-direction: row;
   width: 100%;
-  height: 70px;
+  height: 80px;
   position: fixed;
   border-bottom: 1px solid grey;
+  justify-content: space-between;
 }
 

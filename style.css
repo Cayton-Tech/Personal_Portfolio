@@ -23,3 +23,16 @@ body  {
   justify-content: space-between;
 }
 
+#logo {
+  margin-left: 10px;
+}
+
+#image  {
+  border-radius: 50%;
+}
+
+#nav-items ul li  {
+  display: inline;
+  list-style: none;
+  padding-left: 0;
+}

@@ -39,11 +39,21 @@ body  {
   display: inline;
   list-style: none;
   padding-left: 0;
-  padding-right: 2px;
+  padding-right: 4px;
   margin-right: 8px;
   border-right: 1px solid grey;
 }
 
 #welcome-section  {
   margin-top: 80px;
+  max-width: 600px;
 }
+
+#welcome-section h1 {
+  align-text: center;
+}
+
+#welcome-section p  {
+  align-text: center;
+}
+

@@ -31,8 +31,18 @@ body  {
   border-radius: 50%;
 }
 
+#nav-items ul {
+  margin-right: 10px;
+}
+
 #nav-items ul li  {
   display: inline;
   list-style: none;
   padding-left: 0;
+  margin-right: 8px;
+  border-right: 1px solid grey;
+}
+
+#Welcome-section  {
+  margin-top: 80px;
 }

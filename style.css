@@ -50,10 +50,10 @@ body  {
 }
 
 #welcome-section h1 {
-  align-text: center;
+  text=align: center;
 }
 
 #welcome-section p  {
-  align-text: center;
+  text-align: center;
 }
 

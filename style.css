@@ -82,4 +82,16 @@ footer  {
   width: 100%;
 }
 
+h3  {
+  text-align: center;
+}
 
+#contact ul {
+  text-align:center;
+  list-style: none;
+  padding-left: 0px;
+}
+
+#contact ul li a  {
+  text-decoration: none;
+}

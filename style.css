@@ -81,29 +81,3 @@ footer  {
   width: 100%;
 }
 
-#technologies {
-  height: 100px;
-  max-width: 200px;
-  width: 100%;
-}
-
-#contact  {
-  height: 100px;
-  max-width: 600px;
-  width: 100%;
-}
-
-h3  {
-  text-align: center;
-}
-
-#contact ul {
-  text-align: center;
-}
-
-#contact ul li  {
-  list-style: none;
-  text-decoration: none;
-  padding-left: 0;
-  text-align: center;
-}

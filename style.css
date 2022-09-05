@@ -3,6 +3,8 @@
 /*font-family: 'Lato', sans-serif;*/
 
 body  {
+  margin-left: auto;
+  margin-right: auto;
   font-family: 'Lato', sans-serif;
   display: flex;
   flex-direction: column;
@@ -48,7 +50,7 @@ body  {
 }
 
 #welcome-section  {
-  margin-top: 200px;
+  margin-top: 400px;
   max-width: 600px;
   height: 100vh;
 }
@@ -62,6 +64,7 @@ body  {
 }
 
 #projects {
+  margin-bottom: 100px;
   display: flex;
   flex-direction: row;
   max-width: 1280px;
